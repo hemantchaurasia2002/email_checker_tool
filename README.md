@@ -1,2 +1,2 @@
-# email_verifier_tool
+# email_checker_tool
 <div align="left"><img align="right" width="100" height="100" src="https://github.com/hemantchaurasia2002/slack_age_bot/assets/62471000/c0127867-4f69-416d-89fc-210e5d6e6b65">This is a simple Email Verifier tool developed in Golang. It allows you to verify the validity of email addresses by checking their format and querying the associated mail server for existence. You can use this tool to ensure the accuracy of email lists and reduce bounce rates in your email marketing campaigns</div>
